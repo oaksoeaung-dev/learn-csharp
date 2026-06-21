@@ -1,4 +1,10 @@
 <Solution>
-  <Project Path="Calculator/Calculator.csproj" />
-  <Project Path="TodoList/TodoList.csproj" />
+  <Folder Name="/andrew-troelsen/" />
+  <Folder Name="/andrew-troelsen/chapter3/">
+    <Project Path="andrew-troelsen/chapter3/SimpleCSharpApp/SimpleCSharpApp.csproj" />
+  </Folder>
+  <Folder Name="/udemy/">
+    <Project Path="udemy/Calculator/Calculator.csproj" />
+    <Project Path="udemy/TodoList/TodoList.csproj" />
+  </Folder>
 </Solution>
